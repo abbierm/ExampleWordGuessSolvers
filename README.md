@@ -1,0 +1,1 @@
+# Example WordGuessAPI Solvers
